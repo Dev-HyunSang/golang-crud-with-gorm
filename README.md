@@ -1,4 +1,4 @@
-# golang-curd
+# golang-todo-list
 Go언어를 이용해서 C(Create)U(Update)R(Read)D(Delete)를 할 수 있는 ToDo List를 만드는 프로젝트입니다.  
 
 ## Installation
